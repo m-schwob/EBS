@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name UCCxxxx)(type Legacy)(uri ${KIPRJMOD}/UCCxxxx.lib)(options "")(descr ""))
+  (lib (name EBS-cache)(type Legacy)(uri ${KIPRJMOD}/EBS-cache.lib)(options "")(descr ""))
+  (lib (name EBS-rescue)(type Legacy)(uri ${KIPRJMOD}/EBS-rescue.lib)(options "")(descr ""))
+)
